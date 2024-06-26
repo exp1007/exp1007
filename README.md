@@ -1,5 +1,5 @@
 ## Welcome to my profile 👋
-I'm a big fan of low level programming langauges (C++ the best) and cyber security, mostly malware analysis.
+Big fan of low level programming langauges (C++ the best) and cyber security (windows exploitation, web exploitation, reverse engineering <3).
 
  # Programming languages
 [![Low level languages](https://skillicons.dev/icons?i=cpp,c,cs,py)](https://skillicons.dev)
