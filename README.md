@@ -1,5 +1,5 @@
 ## Welcome to my profile 👋
-Big fan of low level programming langauges (C++ the best) and cyber security (windows exploitation, web exploitation, reverse engineering <3).
+Hey, I'm a tech enthusiast with a passion for programming, cyber security, and a hobby in graphic design.
 
  # Programming languages
 [![Low level languages](https://skillicons.dev/icons?i=cpp,c,cs,py)](https://skillicons.dev)
