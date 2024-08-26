@@ -1,7 +1,7 @@
 ## Welcome to my profile 👋
 Hey, I'm a tech enthusiast with a passion for programming, cyber security, and a hobby in graphic design.
 
-![https://tryhackme-badges.s3.amazonaws.com/exp1007.png](https://tryhackme-badges.s3.amazonaws.com/exp1007.png)
+[![https://tryhackme-badges.s3.amazonaws.com/exp1007.png](https://tryhackme-badges.s3.amazonaws.com/exp1007.png)](https://tryhackme.com/p/exp1007)
 
 ![https://tryhackme.com/exp1007/badges/owasp-10](https://assets.tryhackme.com/room-badges/6d9af667886a96d2a142ab64daf07105.png)
 
