@@ -1,12 +1,8 @@
-## Welcome to my profile 👋
+## 🌊 Yes, this is my github profile
+Here you can find a lot of C/C++ projects (I just love low level coding haha) and my cybersecurity write-ups.
 
-![https://tryhackme.com/exp1007/badges/owasp-10](https://assets.tryhackme.com/room-badges/6d9af667886a96d2a142ab64daf07105.png)
+My biggest solo project, sadly it's private
 
- # Software
-[![Low level languages](https://skillicons.dev/icons?i=cpp,c,cs,py)](https://skillicons.dev)
-# Web
-[![Databases](https://skillicons.dev/icons?i=html,css,wordpress,php,js,mysql)](https://skillicons.dev)
-# IDE
-[![IDE](https://skillicons.dev/icons?i=visualstudio,vscode,arduino,pycharm,webstorm,docker,androidstudio)](https://skillicons.dev)
-# Operating systems
-[![Systems](https://skillicons.dev/icons?i=windows,linux,kali,ubuntu)](https://skillicons.dev)
+![Contributions](https://i.imgur.com/JsQaSjf.png)
+
+# Check out my projects ↓
